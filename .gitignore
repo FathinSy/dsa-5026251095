@@ -28,3 +28,6 @@
 
 # Built Visual Studio Code Extensions
 **/*.vsix
+
+# Remove bin
+**/bin/
