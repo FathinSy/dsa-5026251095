@@ -23,7 +23,7 @@ public class Main {
             boolean newCust = true;
             for (String[] isNew : custData) {
                 if (isNew[0].equals(name)) {
-                     newCust = false;
+                    newCust = false;
                 }
             }
 
